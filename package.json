@@ -11,5 +11,8 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^4.7.1"
+  },
+  "engines" : {
+    "node": "14.x.x"  // ここに先ほど確認したバージョンを記述
   }
 }
